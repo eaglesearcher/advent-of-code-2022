@@ -1,9 +1,9 @@
 import time
-import day24
+import day25
 
 if __name__ == '__main__':
     t0 = time.time()
-    x = day24.run()
+    x = day25.run()
     t1 = time.time()
 
     dt = (t1-t0)*1000
